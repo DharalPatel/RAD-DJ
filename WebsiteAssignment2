@@ -1,0 +1,19 @@
+<!doctype html>
+<html xmlns="">
+<html lang="en">
+<head>
+ Assignment 2 website
+</head>
+<body>
+<h1>Welcome to the website for assignment 2</h1>
+<h2>Group name:RAD-DJ</h2>
+<h3>Group members:</h3>
+<ul>
+<li>Ryan Harris: <a href"http://s3719229.s3-website-ap-southeast-2.amazonaws.com">s3719229</a></li>
+<li>Danny Pham: <a href "https://s3719046.github.io/Assignment1/">s3719046</a></li>
+<li>Ahmed Al Sari: s3682011</li>
+<li>Dharal patel: s3719882</li>
+<li>Jaidyn Jong: s3657960</li>
+
+</body>
+</html>
